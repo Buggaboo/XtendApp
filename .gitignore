@@ -25,4 +25,7 @@ proguard/
 # Log Files
 *.log
 
+# Intellij IDEA
 .idea
+app/src/main/xtend-gen/
+out/
